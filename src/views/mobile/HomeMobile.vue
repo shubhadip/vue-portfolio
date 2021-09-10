@@ -51,7 +51,7 @@
           <div
             class="p-18 bewakoof-bg-yellow text-white rounded-tr-16 rounded-tl-16"
           >
-            <p class="font-bold text-18 uppercase tracking-wide py-14">
+            <p class="font-bold text-18 uppercase tracking-wide py-14 text-center">
               Bewakoof
             </p>
           </div>
@@ -84,7 +84,7 @@
           <div
             class="p-18 coverfox-bg-orange text-white rounded-tr-16 rounded-tl-16"
           >
-            <p class="font-bold text-18 uppercase tracking-wide py-14">
+            <p class="font-bold text-18 uppercase tracking-wide py-14 text-center">
               Coverfox
             </p>
           </div>
@@ -117,7 +117,7 @@
           <div
             class="p-18 paytm-bg-blue text-white rounded-tr-16 rounded-tl-16"
           >
-            <p class="font-bold text-18 uppercase tracking-wide py-14">
+            <p class="font-bold text-18 uppercase tracking-wide py-14 text-center">
               Paytm
             </p>
           </div>
