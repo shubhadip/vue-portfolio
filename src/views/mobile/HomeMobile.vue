@@ -124,7 +124,7 @@
           <div class="bg-white text-black px-18 text-left mt-16">
             <p class="title text-16 font-bold p-8">Technical Lead</p>
             <p class="experience text-14 font-medium p-8">
-              Sep 2020 - Sep 2021
+              Sep 2020 - Present
             </p>
             <p class="description px-16 text-12">
               Currently leading a team of 12 members, working in Developing
