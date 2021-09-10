@@ -424,21 +424,21 @@ export default defineComponent({
 
     function fetchResults(): void {
       Axios.get(
-          "https://api.github.com/users/shubhadip/repos?per_page=100"
-        ).then((data: { data: RepoInterface[] }) => {
-          repos.value = data.data.sort(
-            (a: RepoInterface, b: RepoInterface) =>
-              b.stargazers_count - a.stargazers_count
-          );
-          repos.value = repos.value.slice(0, 3);
-          localStorage.setItem("data", JSON.stringify(repos.value));
-        });
-    };
+        "https://api.github.com/users/shubhadip/repos?per_page=100"
+      ).then((data: { data: RepoInterface[] }) => {
+        repos.value = data.data.sort(
+          (a: RepoInterface, b: RepoInterface) =>
+            b.stargazers_count - a.stargazers_count
+        );
+        repos.value = repos.value.slice(0, 3);
+        localStorage.setItem("data", JSON.stringify(repos.value));
+      });
+    }
 
     onMounted(() => {
-      if(process.env.NODE_ENV === 'production'){
-        fetchResults()
-      }else{
+      if (process.env.NODE_ENV === "production") {
+        fetchResults();
+      } else {
         const t = localStorage.getItem("data");
         if (!t) {
           fetchResults();
