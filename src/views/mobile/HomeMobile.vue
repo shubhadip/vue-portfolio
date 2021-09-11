@@ -397,16 +397,16 @@
     <div
       class="fixed bottom-0 flex w-full border-t border-b text-grey-1 bg-white text-center"
     >
-      <a href="#skills" class="flex-1  p-10 border-l font-bold text-black-2"
+      <a href="#skills" class="decoration-none flex-1  p-10 border-l font-bold text-black-2"
         >Skills</a
       >
-      <a href="#work" class="flex-1 p-10 border-l font-bold text-black-2"
+      <a href="#work" class="decoration-none flex-1 p-10 border-l font-bold text-black-2"
         >Work</a
       >
-      <a href="#blog" class="flex-1 p-10 border-l font-bold text-black-2"
+      <a href="#blog" class="decoration-none flex-1 p-10 border-l font-bold text-black-2"
         >Blogs</a
       >
-      <a href="#open-source" class="flex-1 p-10 border-l font-bold text-black-2"
+      <a href="#open-source" class="decoration-none flex-1 p-10 border-l font-bold text-black-2"
         >Projects</a
       >
     </div>
