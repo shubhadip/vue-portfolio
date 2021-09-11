@@ -51,7 +51,9 @@
           <div
             class="p-18 bewakoof-bg-yellow text-white rounded-tr-16 rounded-tl-16"
           >
-            <p class="font-bold text-18 uppercase tracking-wide py-14 text-center">
+            <p
+              class="font-bold text-18 uppercase tracking-wide py-14 text-center"
+            >
               Bewakoof
             </p>
           </div>
@@ -84,7 +86,9 @@
           <div
             class="p-18 coverfox-bg-orange text-white rounded-tr-16 rounded-tl-16"
           >
-            <p class="font-bold text-18 uppercase tracking-wide py-14 text-center">
+            <p
+              class="font-bold text-18 uppercase tracking-wide py-14 text-center"
+            >
               Coverfox
             </p>
           </div>
@@ -117,7 +121,9 @@
           <div
             class="p-18 paytm-bg-blue text-white rounded-tr-16 rounded-tl-16"
           >
-            <p class="font-bold text-18 uppercase tracking-wide py-14 text-center">
+            <p
+              class="font-bold text-18 uppercase tracking-wide py-14 text-center"
+            >
               Paytm
             </p>
           </div>
@@ -395,18 +401,24 @@
   </div>
   <div class="relative">
     <div
-      class="fixed bottom-0 flex w-full border-t border-b text-grey-1 bg-white text-center"
+      class="fixed bottom-0 flex w-full shadow text-grey-1 bg-white text-center"
     >
-      <a href="#work" class="decoration-none flex-1 p-10 border-l font-bold text-black-2"
+      <a href="#work" class="decoration-none flex-1 p-10 font-bold text-black-2"
         >Work</a
       >
-      <a href="#open-source" class="decoration-none flex-1 p-10 border-l font-bold text-black-2"
+      <a
+        href="#open-source"
+        class="border-l border-grey-2 decoration-none flex-1 p-10 font-bold text-black-2"
         >Projects</a
       >
-      <a href="#blog" class="decoration-none flex-1 p-10 border-l font-bold text-black-2"
+      <a
+        href="#blog"
+        class="border-l border-grey-2 decoration-none flex-1 p-10 font-bold text-black-2"
         >Blogs</a
       >
-      <a href="#skills" class="decoration-none flex-1  p-10 border-l font-bold text-black-2"
+      <a
+        href="#skills"
+        class="border-l border-grey-2 decoration-none flex-1  p-10 font-bold text-black-2 "
         >Skills</a
       >
     </div>
