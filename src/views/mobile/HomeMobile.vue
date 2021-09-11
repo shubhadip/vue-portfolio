@@ -118,9 +118,7 @@
       </div>
       <div class="w-full">
         <div class="rounded-16 pb-32 shadow my-16 border-b border-grey-2">
-          <div
-            class="p-18 lido-bg-blue text-white rounded-tr-16 rounded-tl-16"
-          >
+          <div class="p-18 lido-bg-blue text-white rounded-tr-16 rounded-tl-16">
             <p
               class="font-bold text-18 uppercase tracking-wide py-14 text-center"
             >
@@ -139,7 +137,8 @@
               <li
                 class="sub-title list-disc mt-16 text-12 text-grey-1 text-left"
               >
-                 Development of LIDO Website using HUGO, handling SEO aspects for Video Solution and QaPage.
+                Development of LIDO Website using HUGO, handling SEO aspects for
+                Video Solution and QaPage.
               </li>
             </ul>
           </div>

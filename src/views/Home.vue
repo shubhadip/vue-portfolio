@@ -115,7 +115,9 @@
             </p>
           </div>
           <div class="bg-white text-black px-32 text-left mt-16">
-            <p class="title text-24 font-bold px-16 py-8">Senior Software Developer</p>
+            <p class="title text-24 font-bold px-16 py-8">
+              Senior Software Developer
+            </p>
             <p class="experience text-24 font-medium px-16 py-8">
               April 2020 - Sep 2020
             </p>
@@ -126,7 +128,8 @@
               <li
                 class="sub-title list-disc mt-16 text-14 text-grey-1 text-left"
               >
-                Development of LIDO Website using HUGO, handling SEO aspects for Video Solution and QaPage.
+                Development of LIDO Website using HUGO, handling SEO aspects for
+                Video Solution and QaPage.
               </li>
             </ul>
           </div>
@@ -161,7 +164,7 @@
                 Rollup.
               </li>
               <li class="sub-title list-disc text-14 text-grey-1 text-left">
-                 Created Health, Bike, Car Products in Vue 3
+                Created Health, Bike, Car Products in Vue 3
               </li>
             </ul>
           </div>
