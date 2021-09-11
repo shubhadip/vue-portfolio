@@ -119,6 +119,35 @@
       <div class="w-full">
         <div class="rounded-16 pb-32 shadow my-16 border-b border-grey-2">
           <div
+            class="p-18 lido-bg-blue text-white rounded-tr-16 rounded-tl-16"
+          >
+            <p
+              class="font-bold text-18 uppercase tracking-wide py-14 text-center"
+            >
+              LIDO
+            </p>
+          </div>
+          <div class="bg-white text-black px-18 text-left mt-16">
+            <p class="title text-16 font-bold p-8">Senior Software Developer</p>
+            <p class="experience text-14 font-medium p-8">
+              April 2020 - Sep 2020
+            </p>
+            <p class="description px-16 text-12">
+              Worked in App Development involving ReactJs, React-Native.
+            </p>
+            <ul class="px-24">
+              <li
+                class="sub-title list-disc mt-16 text-12 text-grey-1 text-left"
+              >
+                 Development of LIDO Website using HUGO, handling SEO aspects for Video Solution and QaPage.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="w-full">
+        <div class="rounded-16 pb-32 shadow my-16 border-b border-grey-2">
+          <div
             class="p-18 paytm-bg-blue text-white rounded-tr-16 rounded-tl-16"
           >
             <p
