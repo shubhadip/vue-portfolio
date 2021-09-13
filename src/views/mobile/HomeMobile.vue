@@ -181,7 +181,7 @@
     </section>
     <section
       id="open-source"
-      class="flex py-16 mx-16 mt-0 flex-col items-start border-b border-grey-2"
+      class="flex py-16 mx-16 mt-0 flex-col items-start border-b border-grey-2 text-14 font-bold"
     >
       <p class="text-24 text-black mt-12">Open Source Projects</p>
       <div class="w-full flex flex-col">

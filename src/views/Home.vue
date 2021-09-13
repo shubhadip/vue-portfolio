@@ -195,7 +195,7 @@
           <p class="title text-14 text-black-2 font-medium p-16 pt-0">
             {{ repo.description }}
           </p>
-          <div class="absolute bottom-8px flex items-center justify-center">
+          <div class="absolute bottom-8px flex items-center justify-center font-bold text-16">
             <div class="ml-16 flex items-center justify-center">
               <div>
                 <span :class="['color-tag', repo.language]"></span>
