@@ -5,7 +5,7 @@
     >
       <p class="text-48 my-14 font-bold">Hi all, I'am Shubhadip</p>
       <p class="text-24 text-center">
-        Over 8+ Years of Experience and a passionate Full Stack Software
+        Over 7+ Years of Experience and a passionate Full Stack Software
         Developer 🚀 having an experience of building Web and Mobile
         applications with JavaScript / Vue 3 / Reactjs / Webpack / RoR and some
         other cool libraries and frameworks.
@@ -104,34 +104,31 @@
       </div>
       <div class="w-full flex">
         <div
-          class=" rounded-br-16 rounded-tr-16  rounded-bl-16 rounded-tl-16 pb-32 flex-1 shadow m-16 items-start border-b border-grey-2"
+          class="rounded-16 pb-32 flex-1 shadow m-16 items-start border-b border-grey-2"
         >
           <div
-            class="p-48 bewakoof-bg-yellow text-white flex justify-center items-center rounded-tr-16  rounded-tl-16"
+            class="p-48 lido-bg-blue  text-white flex justify-center items-center rounded-tr-16  rounded-tl-16"
           >
             <p class="font-bold text-24 uppercase tracking-wide px-32 py-16">
-              Bewakoof
+              LIDO
             </p>
           </div>
           <div class="bg-white text-black px-32 text-left mt-16">
-            <p class="title text-24 font-bold px-16 py-8">Software Developer</p>
+            <p class="title text-24 font-bold px-16 py-8">
+              Senior Software Developer
+            </p>
             <p class="experience text-24 font-medium px-16 py-8">
-              June 2014 - May 2018
+              April 2020 - Sep 2020
             </p>
             <p class="description px-16 text-14">
-              Developing and Testing Algorithms, Apis (Ruby On Rails), Frontend
-              and Backend panels related to Stock Management, Rto and Return
-              processe
+              Worked in App Development involving ReactJs, React-Native.
             </p>
             <ul class="px-48">
               <li
                 class="sub-title list-disc mt-16 text-14 text-grey-1 text-left"
               >
-                Revamped Bewakoof.com to ReactJs from AngularJs
-              </li>
-              <li class="sub-title list-disc text-14 text-grey-1 text-left">
-                Used webSocket for real-time data analysis for marketing
-                purposes
+                Development of LIDO Website using HUGO, handling SEO aspects for
+                Video Solution and QaPage.
               </li>
             </ul>
           </div>
@@ -170,35 +167,39 @@
           </div>
         </div>
         <div
-          class="rounded-16 pb-32 flex-1 shadow m-16 items-start border-b border-grey-2"
+          class=" rounded-br-16 rounded-tr-16  rounded-bl-16 rounded-tl-16 pb-32 flex-1 shadow m-16 items-start border-b border-grey-2"
         >
           <div
-            class="p-48 lido-bg-blue  text-white flex justify-center items-center rounded-tr-16  rounded-tl-16"
+            class="p-48 bewakoof-bg-yellow text-white flex justify-center items-center rounded-tr-16  rounded-tl-16"
           >
             <p class="font-bold text-24 uppercase tracking-wide px-32 py-16">
-              LIDO
+              Bewakoof
             </p>
           </div>
           <div class="bg-white text-black px-32 text-left mt-16">
-            <p class="title text-24 font-bold px-16 py-8">
-              Senior Software Developer
-            </p>
+            <p class="title text-24 font-bold px-16 py-8">Software Developer</p>
             <p class="experience text-24 font-medium px-16 py-8">
-              April 2020 - Sep 2020
+              June 2014 - May 2018
             </p>
             <p class="description px-16 text-14">
-              Worked in App Development involving ReactJs, React-Native.
+              Developing and Testing Algorithms, Apis (Ruby On Rails), Frontend
+              and Backend panels related to Stock Management, Rto and Return
+              processe
             </p>
             <ul class="px-48">
               <li
                 class="sub-title list-disc mt-16 text-14 text-grey-1 text-left"
               >
-                Development of LIDO Website using HUGO, handling SEO aspects for
-                Video Solution and QaPage.
+                Revamped Bewakoof.com to ReactJs from AngularJs
+              </li>
+              <li class="sub-title list-disc text-14 text-grey-1 text-left">
+                Used webSocket for real-time data analysis for marketing
+                purposes
               </li>
             </ul>
           </div>
         </div>
+        
       </div>
       
     </section>
