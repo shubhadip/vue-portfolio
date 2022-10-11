@@ -92,7 +92,6 @@ module.exports = {
     autoprefixer: {
       overrideBrowserslist: '> 1%, IE 6, Explorer >= 10, Safari >= 7',
     },
-    ...(process.env.NODE_ENV !== 'development' ? purgecss : {}),
     // Specifically used here to utilize purgecss comments
     'postcss-discard-comments': {},
     cssnano: {
