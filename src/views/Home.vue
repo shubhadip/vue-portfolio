@@ -5,7 +5,7 @@
     >
       <p class="text-48 my-14 font-bold">Hi all, I'am Shubhadip</p>
       <p class="text-24 text-center">
-        Over 7+ Years of Experience and a passionate Full Stack Software
+        Over 8+ Years of Experience and a passionate Full Stack Software
         Developer 🚀 having an experience of building Web and Mobile
         applications with JavaScript / Vue 3 / Reactjs / Webpack / RoR and some
         other cool libraries and frameworks.
@@ -37,6 +37,71 @@
       class="flex px-32 mx-32 p-56 flex-col items-start border-b border-grey-2"
     >
       <p class="text-48 text-black mt-18">Work Experiences</p>
+      <div class="flex w-full items-center justify-center ">
+        <div
+          class="rounded-br-16 rounded-tr-16  rounded-bl-16 rounded-tl-16 pb-32 shadow m-16 border-b border-grey-2"
+          style="max-width: 400px"
+        >
+          <div
+            class="p-48 inspirit-bg-green text-white flex justify-center items-center rounded-tr-16  rounded-tl-16"
+          >
+            <p class="font-bold text-24 uppercase tracking-wide px-32 py-16">
+              InspiritVr
+            </p>
+          </div>
+          <div class="bg-white text-black px-32 text-left mt-16">
+            <p class="title text-24 font-bold px-16 py-8">Senior Software Developer</p>
+            <p class="experience text-24 font-medium px-16 py-8">
+              Jan 2022 - Present
+            </p>
+            <p class="description px-16 text-14">
+              Handling of end to end process of Development, Testing, Deployment
+              of InspiritVr Website.
+            </p>
+            <ul class="px-48">
+              <li
+                class="sub-title list-disc mt-16 text-14 text-grey-1 text-left"
+              >
+                Created InspiritVr website on nextjs & feature development related to 
+                3d Models & Simulations.
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="rounded-br-16 rounded-tr-16  rounded-bl-16 rounded-tl-16 pb-32 shadow m-16 border-b border-grey-2"
+          style="max-width: 400px"
+        >
+          <div
+            class="p-48 paytm-bg-blue text-white flex justify-center items-center rounded-tr-16  rounded-tl-16"
+          >
+            <p class="font-bold text-24 uppercase tracking-wide px-32 py-16">
+              paytm
+            </p>
+          </div>
+          <div class="bg-white text-black px-32 text-left mt-16">
+            <p class="title text-24 font-bold px-16 py-8">Technical Lead</p>
+            <p class="experience text-24 font-medium px-16 py-8">
+              Sep 2020 - Dec 2021
+            </p>
+            <p class="description px-16 text-14">
+              Currently leading a team of 12 members, working in Developing
+              insurance products
+            </p>
+            <ul class="px-48">
+              <li
+                class="sub-title list-disc mt-16 text-14 text-grey-1 text-left"
+              >
+                Handled Component libraries for Insurance Products in Vue 3 and
+                Rollup.
+              </li>
+              <li class="sub-title list-disc text-14 text-grey-1 text-left">
+                Created Health, Bike, Car Products in Vue 3
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
       <div class="w-full flex">
         <div
           class=" rounded-br-16 rounded-tr-16  rounded-bl-16 rounded-tl-16 pb-32 flex-1 shadow m-16 items-start border-b border-grey-2"
@@ -135,41 +200,7 @@
           </div>
         </div>
       </div>
-      <div class="flex w-full items-center justify-center ">
-        <div
-          class="rounded-br-16 rounded-tr-16  rounded-bl-16 rounded-tl-16 pb-32 shadow m-16 border-b border-grey-2"
-          style="max-width: 400px"
-        >
-          <div
-            class="p-48 paytm-bg-blue text-white flex justify-center items-center rounded-tr-16  rounded-tl-16"
-          >
-            <p class="font-bold text-24 uppercase tracking-wide px-32 py-16">
-              paytm
-            </p>
-          </div>
-          <div class="bg-white text-black px-32 text-left mt-16">
-            <p class="title text-24 font-bold px-16 py-8">Technical Lead</p>
-            <p class="experience text-24 font-medium px-16 py-8">
-              Sep 2020 - Present
-            </p>
-            <p class="description px-16 text-14">
-              Currently leading a team of 12 members, working in Developing
-              insurance products
-            </p>
-            <ul class="px-48">
-              <li
-                class="sub-title list-disc mt-16 text-14 text-grey-1 text-left"
-              >
-                Handled Component libraries for Insurance Products in Vue 3 and
-                Rollup.
-              </li>
-              <li class="sub-title list-disc text-14 text-grey-1 text-left">
-                Created Health, Bike, Car Products in Vue 3
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
+      
     </section>
     <section
       id="open-source"
@@ -245,7 +276,7 @@
       </div>
       <p class="m-16 flex items-center justify-center w-full">
         <a
-          href="https://shubhadip.medium.com"
+          href="https://github.com/shubhadip?tab=repositories"
           class="btn btn-md p-16 bg-black-2 text-white text-16 font-bold rounded-4 decoration-none pointer"
         >
           Other Projects
@@ -459,7 +490,7 @@ export default defineComponent({
           (a: RepoInterface, b: RepoInterface) =>
             b.stargazers_count - a.stargazers_count
         );
-        repos.value = repos.value.slice(0, 3);
+        repos.value = repos.value.slice(0, 4);
       });
     });
 
